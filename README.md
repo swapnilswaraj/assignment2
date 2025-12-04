@@ -1,2 +1,3 @@
 # assignment2
 This repository consists the assignment 2  for the Tutedude python program
+This consists both task 1 and task 2 for the assignment 2.
